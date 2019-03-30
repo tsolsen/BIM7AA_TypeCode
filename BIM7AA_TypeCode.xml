@@ -17,17 +17,19 @@
 			<Name_en>Generic Building Elements</Name_en>
 			<Name_se>Generiska objekt</Name_se>
 			<Description_dk/>
+			<IFC4_Entity/>
+			<IFC4_EntityType/>
+			<IFC4_EnumerationType/>
+			<IFC4_Properties/>
+			<IFC2X3_Entity/>
+			<IFC2X3_EntityType/>
+			<IFC2X3_EnumerationType/>
+			<IFC2X3_Properties/>
 			<BC-SfB_1980/>
 			<BSAB/>
 			<Bips_C213/>
 			<CCS_R1/>
 			<Forvaltningklassifikation_V2.3/>
-			<IFC2X3_Entity/>
-			<IFC2X3_EntityType/>
-			<IFC2X3_EnumerationType/>
-			<IFC4_Entity/>
-			<IFC4_EntityType/>
-			<IFC4_EnumerationType/>
 		</Item>
 		<Item>
 			<Identification>01</Identification>
@@ -1312,7 +1314,11 @@
 			<CCS_R1>[L]RUA</CCS_R1>
 			<Forvaltningklassifikation_V2.3>tk</Forvaltningklassifikation_V2.3>
 			<IFC2X3_Entity>IfcRailing</IFC2X3_Entity>
+			<IFC2X3_EntityType>IfcRailingType</IFC2X3_EntityType>
+			<IFC2X3_EnumerationType>USERDEFINED</IFC2X3_EnumerationType>
 			<IFC4_Entity>IfcRailing</IFC4_Entity>
+			<IFC4_EntityType>IfcRailingType</IFC4_EntityType>
+			<IFC4_EnumerationType>USERDEFINED</IFC4_EnumerationType>
 		</Item>
 		<Item>
 			<Identification>302</Identification>
